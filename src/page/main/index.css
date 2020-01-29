@@ -1,0 +1,17 @@
+img {}
+
+.temperature {
+    font-size: 1.8em;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.extras {
+    color: lightblue;
+    font-weight: 800;
+}
